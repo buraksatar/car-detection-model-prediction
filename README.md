@@ -1,1 +1,1 @@
-![alt text](images/overview.png "Overview of the Approaches")
+#![alt text](images/overview.png "Overview of the Approaches")
