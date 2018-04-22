@@ -31,3 +31,6 @@ It is a good one. It can predict the bounding boxes even better than the ground 
 
 It is bad one. Especially a car is quite small, it generally confuses.
 ![alt text](images/badResultDetection1.png "FIAT Dogan")
+
+Some result from Experiment II
+![alt text](images/display_B_300.png "Classification")
