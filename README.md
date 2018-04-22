@@ -22,4 +22,12 @@ Go to next file if any
 
 ## It is flowchart of the application
 
-![alt text](images/flowchart.png "Overview of the Approaches")
+![alt text](images/flowchart.png "Flowchart of the Application")
+
+## Some results
+
+It is a good one. It can predict the bounding boxes even better than the ground truth ones.
+![alt text](images/goodResultDetection1.png "Renault Toros")
+
+It is bad one. Especially a car is quite small, it generally confuses.
+![alt text](images/badResultDetection1.png "FIAT Dogan")
