@@ -15,5 +15,5 @@ Do it for every file
 
 ## There are three approaches in this work
 
-![alt text](images/overview.png "Overview of the Approaches")
+![alt text](images/overview2.png "Overview of the Approaches")
 
