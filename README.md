@@ -1,6 +1,6 @@
 <!--- # This is how I define ground truth labels of images by using a pretrained SSD--->
 
-```python
+```pseudo
 Go to the main path that contains the files related to classes
 Get into the first file
     For all image:
