@@ -42,4 +42,4 @@ Some result from Experiment II
 
 We have applied our make and model prediction method for catching up fraud on licence plate. 
 
-![alt text](images/flowchart.png "Flowchart of the Application")
+![alt text](images/flowchart2.png "Flowchart of the Application")
