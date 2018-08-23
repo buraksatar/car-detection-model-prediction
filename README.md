@@ -1,6 +1,9 @@
 I have just uploaded some parts of my master thesis. I will be uploading the rest and arrange them soon. 
 
-## Got accepted by The 27th International Conference on Artificial Neural Networks 
+## Submitted to ICANN 2018 
+
+We wrote a paper from the thesis work. 
+It has been accepted by [The 27th International Conference on Artificial Neural Networks].(https://e-nns.org/icann2018/)
 
 
 ## There are Three Experiments in This Work
