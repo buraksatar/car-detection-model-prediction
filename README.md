@@ -2,6 +2,9 @@
 
 [Youtube Videos](https://www.youtube.com/watch?v=ap9glASN9xc&list=PLM7sp8Qv0OM_dZ0s4LQAtab4WbVuQsccc)
 
+![alt text](images/fiat1.png "Tofaş Fiat Doğan 1")
+![alt text](images/fiat2.png "Tofaş Fiat Doğan 2")
+![alt text](images/fiat3.png "Tofaş Fiat Doğan 3")
 
 I have just uploaded some parts of my master thesis. I will be uploading the rest and arrange them soon. 
 
