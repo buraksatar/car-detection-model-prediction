@@ -2,11 +2,22 @@
 
 [Youtube Videos](https://www.youtube.com/watch?v=ap9glASN9xc&list=PLM7sp8Qv0OM_dZ0s4LQAtab4WbVuQsccc)
 
+## Images from Fiat Videos
+
 ![alt text](images/fiat1.png "Tofaş Fiat Doğan 1")
 ![alt text](images/fiat2.png "Tofaş Fiat Doğan 2")
 ![alt text](images/fiat3.png "Tofaş Fiat Doğan 3")
 
+## Images from Renault Videos
+
+![alt text](images/reno1.png "Renault Toros 1")
+![alt text](images/reno2.png "Renault Fluence 1")
+![alt text](images/reno3.png "Renault Fluence 2")
+
+
 I have just uploaded some parts of my master thesis. I will be uploading the rest and arrange them soon. 
+
+[Youtube Videos](https://www.youtube.com/watch?v=ap9glASN9xc&list=PLM7sp8Qv0OM_dZ0s4LQAtab4WbVuQsccc)
 
 ## Submitted to ICANN 2018 
 
